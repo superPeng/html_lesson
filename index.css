@@ -1,0 +1,22 @@
+body{
+	margin:0;
+}
+
+.demo1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	left:100px;
+	top:100px;
+
+	position: absolute;
+	opacity: 0.5
+}
+
+.demo2{
+	width: 150px;
+	height: 150px;
+	background-color: green;
+	right:100px;
+	bottom:100px;
+}
